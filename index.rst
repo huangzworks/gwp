@@ -158,3 +158,7 @@ https://www.manning.com/books/go-web-programming
 
 《Go web 编程》的配套源码： 
 https://github.com/sausheong/gwp
+
+《Go web 编程》原文试读：
+`第一章 <https://manning-content.s3.amazonaws.com/download/e/2270a2e-9bad-4827-847e-4821ab56f476/SC-01.pdf>`_ ，
+`第二章 <https://manning-content.s3.amazonaws.com/download/5/6287a88-68f2-44d6-bbe2-40a03f11c988/SC-02.pdf>`_ 。
