@@ -146,7 +146,7 @@ http://huangz.me
 预计将于 2017 年下半年发售。
 
 如果想要第一时间知道准确的发售信息，
-请关注作者的\ `微博 <http://weibo.com/huangz1990>`_\ 和\ `twitter <https://twitter.com/huangz1990>`_\ ，
+请关注译者的\ `微博 <http://weibo.com/huangz1990>`_\ 和\ `twitter <https://twitter.com/huangz1990>`_\ ，
 又或者定时查看本网站。
 
 
