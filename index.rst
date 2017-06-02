@@ -162,3 +162,29 @@ https://github.com/sausheong/gwp
 《Go web 编程》原文试读：
 `第一章 <https://manning-content.s3.amazonaws.com/download/e/2270a2e-9bad-4827-847e-4821ab56f476/SC-01.pdf>`_ ，
 `第二章 <https://manning-content.s3.amazonaws.com/download/5/6287a88-68f2-44d6-bbe2-40a03f11c988/SC-02.pdf>`_ 。
+
+
+关联项目
+===========================
+
+为了更好地翻译《Go web 编程》，
+译者对书中用到的标准 Go 库的文档也进行了翻译，
+并将这些译文放到了《Go 标准库中文文档》项目中，
+该项目可以通过以下地址进行访问：
+http://cngolib.com/
+
+.. image:: image/cngolib-logo.png
+
+
+讨论 QQ 群
+==========================
+
+对本书或者 Go 语言有兴趣的朋友，
+可以加入到以下 QQ 群，
+与译者以及众多群友一起进行技术讨论：
+
+- IT 技术讨论 2 群，群号 186200307
+
+- IT 技术讨论 1 群，群号 398976550
+
+因为 1 群人数已经饱和，推荐朋友们优先加入 2 群。
