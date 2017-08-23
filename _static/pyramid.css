@@ -383,6 +383,8 @@ div.intro_text h2 {
     padding-left: 20px;
     color: #D82A20;
     text-align: center;
+    margin-top: 0px;
+    margin-bottom: -1px;
 }
 
 div.intro_text li {
