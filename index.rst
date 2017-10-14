@@ -76,7 +76,7 @@
 - `致谢 <file:///Users/huangz/gwpcn/_build/html/preview/acknowledgments.html#id1>`_
 - `关于本书 <file:///Users/huangz/gwpcn/_build/html/preview/about-this-book.html#id1>`_
 - `关于本书封面插图 <file:///Users/huangz/gwpcn/_build/html/preview/about-the-cover-illustration.html#id1>`_
-- `第一部分 —— Go 与 Web 应用 <file:///Users/huangz/gwpcn/_build/html/preview/part-one.html#id1>`_
+- `第一部分 —— Go 与 Web 应用 <file:///Users/huangz/gwpcn/_build/html/preview/part-one.html#goweb>`_
 
   - `第 1 章：Go 与 Web 应用 <file:///Users/huangz/gwpcn/_build/html/preview/chp1.html#goweb>`_
   - `第 2 章：ChitChat 论坛 <file:///Users/huangz/gwpcn/_build/html/preview/chp2.html#chitchat>`_
