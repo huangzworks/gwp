@@ -69,17 +69,17 @@
 
 *以下目录中可点击的章节为试读内容*
 
-- `内容提要 <file:///Users/huangz/gwpcn/_build/html/preview/summary.html#id1>`_
-- `译者记事 <file:///Users/huangz/gwpcn/_build/html/preview/translator-notes.html#id1>`_
-- `译者介绍 <file:///Users/huangz/gwpcn/_build/html/preview/about-translator.html#id1>`_
-- `前言 <file:///Users/huangz/gwpcn/_build/html/preview/preface.html#id1>`_
-- `致谢 <file:///Users/huangz/gwpcn/_build/html/preview/acknowledgments.html#id1>`_
-- `关于本书 <file:///Users/huangz/gwpcn/_build/html/preview/about-this-book.html#id1>`_
-- `关于本书封面插图 <file:///Users/huangz/gwpcn/_build/html/preview/about-the-cover-illustration.html#id1>`_
-- `第一部分 —— Go 与 Web 应用 <file:///Users/huangz/gwpcn/_build/html/preview/part-one.html#goweb>`_
+- `内容提要 <http://gwpcn.com/preview/summary.html#id1>`_
+- `译者记事 <http://gwpcn.com/preview/translator-notes.html#id1>`_
+- `译者介绍 <http://gwpcn.com/preview/about-translator.html#id1>`_
+- `前言 <http://gwpcn.com/preview/preface.html#id1>`_
+- `致谢 <http://gwpcn.com/preview/acknowledgments.html#id1>`_
+- `关于本书 <http://gwpcn.com/preview/about-this-book.html#id1>`_
+- `关于本书封面插图 <http://gwpcn.com/preview/about-the-cover-illustration.html#id1>`_
+- `第一部分 —— Go 与 Web 应用 <http://gwpcn.com/preview/part-one.html#goweb>`_
 
-  - `第 1 章：Go 与 Web 应用 <file:///Users/huangz/gwpcn/_build/html/preview/chp1.html#goweb>`_
-  - `第 2 章：ChitChat 论坛 <file:///Users/huangz/gwpcn/_build/html/preview/chp2.html#chitchat>`_
+  - `第 1 章：Go 与 Web 应用 <http://gwpcn.com/preview/chp1.html#goweb>`_
+  - `第 2 章：ChitChat 论坛 <http://gwpcn.com/preview/chp2.html#chitchat>`_
 
 - 第二部分 —— Web 应用的基本组成部分
 
@@ -97,7 +97,7 @@
 
 - 附录
 
-  - `安装并设置 Go <file:///Users/huangz/gwpcn/_build/html/preview/appendix.html#go>`_
+  - `安装并设置 Go <http://gwpcn.com/preview/appendix.html#go>`_
 
 
 对本书的赞誉
