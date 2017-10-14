@@ -22,6 +22,7 @@ body {
 }
 
 div.documentwrapper {
+    min-height: 1024px;
     float: left;
     width: 100%;
     padding-top: 30px;
@@ -187,8 +188,8 @@ div.body h6 {
 }
  
 div.body h1 { margin-top: 0; font-size: 400%; font-weight: bold; }
-div.body h2 { font-size: 180%; background-color: #ffffff; margin-top: 60px; font-weight: bold; background-color: #C52F24; color: #fff; }
-div.body h3 { font-size: 120%; background-color: #ffffff; color: #C52F24; margin-top: 40px; }
+div.body h2 { font-size: 160%; background-color: #ffffff; margin-top: 60px; font-weight: bold; background-color: #247b7b; color: #fff; }
+div.body h3 { font-size: 120%; background-color: #ffffff; color: #247b7b; margin-top: 40px; }
 div.body h4 { font-size: 110%; background-color: #ffffff; }
 div.body h5 { font-size: 100%; background-color: #ffffff; }
 div.body h6 { font-size: 100%; background-color: #ffffff; }
