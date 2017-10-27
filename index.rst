@@ -15,6 +15,8 @@
 请关注译者的\ `微博 <http://weibo.com/huangz1990>`_\ 和\ `twitter <https://twitter.com/huangz1990>`_\ ，
 又或者定时查看本网站。
 
+想要购买译者签名版的朋友请阅读\ `译者签名版购买方法 <http://gwpcn.com/signed.html>`_\ 。
+
 
 关于本书
 ============================
