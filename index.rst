@@ -9,6 +9,8 @@
 
 在异步社区购买纸书和电子书： http://www.epubit.com.cn/book/details/4705
 
+在豆瓣上关注并购买本书： https://book.douban.com/subject/27204133/
+
 购买译者签名版：http://gwpcn.com/signed.html#id1
 
 
