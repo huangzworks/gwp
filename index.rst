@@ -7,15 +7,9 @@
 购买链接
 ============================
 
-本书的翻译工作已经完成，
-正在进行后续的编辑和排版，
-具体的购买链接将在书本准备就绪之后放出。
+在异步社区购买纸书和电子书： http://www.epubit.com.cn/book/details/4705
 
-如果想要第一时间知道准确的发售信息，
-请关注译者的\ `微博 <http://weibo.com/huangz1990>`_\ 和\ `twitter <https://twitter.com/huangz1990>`_\ ，
-又或者定时查看本网站。
-
-想要购买译者签名版的朋友请阅读\ `译者签名版购买方法 <http://gwpcn.com/signed.html#id1>`_\ 。
+购买译者签名版：http://gwpcn.com/signed.html#id1
 
 
 关于本书
