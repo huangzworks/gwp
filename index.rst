@@ -128,16 +128,16 @@
 .. image:: image/sau.png
    :align: left
 
-Sau Sheong Chang 现在是新加坡能源有限公司的数字技术总裁，
+郑兆雄（Sau Sheong Chang）现任新加坡能源有限公司的数字技术总裁，
 在此之前他做过 PayPal 的消费者工程经理，
 也有过在 HP 、 Yahoo 以及 Garena 等公司的任职经历。
 
-Sau 作为贡献者活跃于 Ruby 社区以及 Go 社区，
+郑兆雄作为贡献者活跃于 Ruby 社区以及 Go 社区，
 除了为开源项目贡献代码之外，
 他还创作过好几本技术图书，
 并在各种技术聚会和大会上发言。
 
-要了解关于 Sau 的更多信息，
+要了解关于郑兆雄的更多信息，
 请访问他的个人主页： 
 https://about.me/sausheong
 
