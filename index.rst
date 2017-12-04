@@ -173,6 +173,22 @@ https://github.com/sausheong/gwp
 `第二章 <https://manning-content.s3.amazonaws.com/download/5/6287a88-68f2-44d6-bbe2-40a03f11c988/SC-02.pdf>`_ 。
 
 
+勘误
+===========================
+
+以下目录列出了《Go Web 编程》目前已确认的勘误信息，
+请读者在阅读书本之前，
+根据这些信息对书本进行校正，
+由此带来的不便译者深感抱歉。
+
+如果读者在阅读《Go Web 编程》的过程中发现了尚未公布的错误，
+可以与译者取得联系并进行反馈。
+
+勘误目录：
+
+- `关于本书 <http://gwpcn.com/erreta/about-this-book.html#id1>`_
+
+
 关联项目
 ===========================
 
