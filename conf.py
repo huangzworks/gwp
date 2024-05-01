@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'gwpcn.com'
+project = '《Go Web编程》读者服务网站'
 copyright = '2017, huangz'
 author = 'huangz'
 
